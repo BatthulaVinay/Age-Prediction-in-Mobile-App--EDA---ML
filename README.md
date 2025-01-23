@@ -1,4 +1,4 @@
-# Age-Prediction-in-Mobile-App--EDA---ML
+# GenZ_DatingApp- EDA - ML
 📊 Mobile App Usage Analysis: Insights & Visualizations 📱
 🏢 Project Overview
 This project analyzes mobile app usage trends using data visualization techniques. By leveraging advanced analytics, we aim to provide insights based on various factors such as user demographics, app usage frequency, satisfaction levels, and challenges faced by users.
